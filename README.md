@@ -1,2 +1,18 @@
 # vdrum-game
-(In development) VDrumGame is a rhythm game, in the "guitar-hero" style, based on the RealDrum-Ursina-Version repo
+----
+
+VDrum é um futuro jogo de ritmo, estilo guitar-hero.
+Neste projeto, a base do <a href="https://github.com/hayukimori/RealDrum-Ursina-Version">RealDrum-Ursina-Version</a> foi usada.
+
+Requisitos
+--
+- Ursina: `pip install ursina`
+- configparser
+
+
+
+To-do
+--
+- [ ] Alteração de UI
+- [ ] Sistema de Interação com hitobjects
+- [ ] Definir posição agradável dos pontos de interação
